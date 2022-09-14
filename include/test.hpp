@@ -1,8 +1,9 @@
-include <iostream>
+#include <iostream>
+#include <string>
 
-typedef strut{
+typedef struct{
 	std::int a;
 	std::string b
 
 
-}test_strut
+}test_struct;
